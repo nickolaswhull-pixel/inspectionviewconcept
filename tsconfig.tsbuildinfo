@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/checklistpane.tsx","./src/components/questionrow.tsx","./src/components/setupsidebar.tsx","./src/components/workflowbar.tsx","./src/data/scenarios.ts","./src/selectors/checklist.ts","./src/store/inspectionstore.ts","./vite.config.ts"],"version":"5.9.3"}
